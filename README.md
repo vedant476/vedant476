@@ -54,15 +54,11 @@ Git • GitHub • VS Code • Chrome Extensions • Docker
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant476&show_icons=true&locale=en&layout=compact" alt="vedant476" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant476&show_icons=true&locale=en" alt="vedant476" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant476&" alt="vedant476" /></p>
 
 ---
 
