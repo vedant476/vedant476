@@ -68,9 +68,9 @@ Git • GitHub • VS Code • Chrome Extensions • Docker
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/vedant476
 - Portfolio: https://YOUR_WEBSITE
-- Email: YOUR_EMAIL
+- Email: vedantrathod476@gmail.com
 
 ---
 
