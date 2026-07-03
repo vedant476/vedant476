@@ -46,7 +46,7 @@ Git • GitHub • VS Code • Chrome Extensions • Docker
 ## 🚧 Current Projects
 
 - 📦 LeetVault
-- 📄 Resume Generator
+- 🎯 Mission Tracker
 - 🧾 Invoice Generator
 - 🌐 Portfolio Website
 
