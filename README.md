@@ -7,7 +7,7 @@ Computer Science Student • Full Stack Developer • Building things I'll actua
 ---
 
 ## 🚀 About Me
-💻 Computer Science Engineering Student<br><br>📖 Trying to understand who's writing the code.<br><br>🎮 Main quest: Build cool stuff.<br><br>🛠️ Currently building developer tools.<br><br>💀 Here to meme.<br><br>⚡ Respect +1 after every commit.
+<br>📖 Trying to understand who's writing the code.<br><br>🎮 Main quest: Build cool stuff.<br><br>🛠️ Currently building developer tools.<br><br>💀 Here to meme.<br><br>⚡ Respect +1 after every commit.
 
 ---
 
