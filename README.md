@@ -7,13 +7,7 @@ Computer Science Student • Full Stack Developer • Building things I'll actua
 ---
 
 ## 🚀 About Me
-
--💻 Computer Science Engineering Student
--📖 Trying to understand who’s writing the code.
--🎮 Main quest: Build cool stuff.
--🛠️ Currently building developer tools.
--💀 Here to meme.
--⚡ Respect +1 after every commit.
+💻 Computer Science Engineering Student<br><br>📖 Trying to understand who's writing the code.<br><br>🎮 Main quest: Build cool stuff.<br><br>🛠️ Currently building developer tools.<br><br>💀 Here to meme.<br><br>⚡ Respect +1 after every commit.
 
 ---
 
@@ -72,3 +66,6 @@ Git • GitHub • VS Code • Chrome Extensions • Docker
 ---
 
 > "Build first. Polish later."
+
+
+
