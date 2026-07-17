@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 
 <p align="center">
-Computer Science Student • Full Stack Developer • Building tools that solve real problems
+Computer Science Student • Full Stack Developer • Building things I'll actually use.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Computer Science Engineering Student
-- 🌱 Currently building **LeetVault**, a Chrome extension for managing LeetCode solutions
-- ⚡ Interested in Full Stack Development, System Design, and Automation
-- 🧩 I enjoy solving algorithmic problems and turning ideas into products
-- 🎯 Goal: Build software that people actually use
+-💻 Computer Science Engineering Student
+-📖 Trying to understand who’s writing the code.
+-🎮 Main quest: Build cool stuff.
+-🛠️ Currently building developer tools.
+-💀 Here to meme.
+-⚡ Respect +1 after every commit.
 
 ---
 
