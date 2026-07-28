@@ -90,27 +90,6 @@ Currently, I'm focused on becoming a better software engineer by building projec
 - Backend Architecture
 - Performance Optimization
 
----
-
-# 📌 Current Focus
-
-- 🚀 Building developer tools
-- 🧠 Solving LeetCode consistently
-- ⚙️ Learning scalable backend systems
-- ✍️ Writing better code than yesterday
-- 🌍 Open Source contributions
-
----
-
-# 💡 Principles
-
-```text
-Understand before implementing.
-Simple beats clever.
-Consistency beats intensity.
-Ship, learn, repeat.
-Every line should earn its place.
-```
 
 ---
 
@@ -143,7 +122,7 @@ Every line should earn its place.
 
 <div align="center">
 
-> **"Be what you seek."**
+> **"Understanding is the real shortcut."**
 
 <img src="https://komarev.com/ghpvc/?username=vedant476&color=00D9FF&style=flat-square" alt="Profile Views" />
 
