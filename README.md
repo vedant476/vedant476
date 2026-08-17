@@ -122,7 +122,7 @@ Currently, I'm focused on becoming a better software engineer by building projec
 
 <div align="center">
 
-> **"Understanding is the real shortcut."**
+> **"Curiosity starts the project. Code takes it somewhere."**
 
 <img src="https://komarev.com/ghpvc/?username=vedant476&color=00D9FF&style=flat-square" alt="Profile Views" />
 
