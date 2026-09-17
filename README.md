@@ -68,7 +68,11 @@ Currently, I'm focused on becoming a better software engineer by building projec
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+</p>
 
 <p align="center">
 
